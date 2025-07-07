@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.idea/  # Ignora configurações do PyCharm específicas do usuário
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
